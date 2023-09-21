@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @agriffin735
 - 👀 I’m interested in the software automation
-- 🌱 I’m currently learning Groovy
 - 📫 How to reach me agriffin735@gmail.com
 
 <!---
